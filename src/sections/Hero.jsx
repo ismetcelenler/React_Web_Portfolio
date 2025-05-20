@@ -31,7 +31,7 @@ function Hero() {
             <div className="flex flex-wrap gap-4 justify-center md:justify-start animate-slide-up">
               <a 
                 href="#projects" 
-                className="px-8 py-3 bg-primary text-white rounded-lg hover:bg-primary/90 hover:scale-105 transform transition-all duration-300 shadow-lg hover:shadow-primary/20"
+                className="px-8 py-3 bg-white dark:bg-gray-800 text-secondary dark:text-white rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 hover:scale-105 transform transition-all duration-300 shadow-lg"
               >
                 <i className="fas fa-code-branch mr-2"></i>
                 Projelerim

@@ -97,7 +97,7 @@ function About() {
               </div>
 
               <div className="flex justify-center sm:justify-start space-x-4">
-                <a href="#" className="px-6 py-3 bg-gradient-to-r from-primary to-primary/80 text-secondary dark:text-white rounded-lg hover:scale-105 transform transition-all duration-300 shadow-lg">
+                <a href="#" className="px-6 py-3 bg-white dark:bg-gray-800 text-secondary dark:text-white rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 hover:scale-105 transform transition-all duration-300 shadow-lg">
                   <i className="fas fa-download mr-2"></i>
                   CV'mi İndir
                 </a>

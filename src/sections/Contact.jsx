@@ -156,7 +156,7 @@ function Contact() {
                   <div>
                     <button
                       type="submit"
-                      className="w-full px-6 py-3 bg-gradient-to-r from-primary to-accent text-white rounded-lg hover:from-primary/90 hover:to-accent/90 transition-all transform hover:scale-105 duration-300 shadow-lg flex items-center justify-center"
+                      className="w-full px-6 py-3 bg-white dark:bg-gray-800 text-secondary dark:text-white rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 hover:scale-105 transform transition-all duration-300 shadow-lg"
                     >
                       <i className="fas fa-paper-plane mr-2"></i>
                       Mesajı Gönder
