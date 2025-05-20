@@ -49,6 +49,17 @@ const experienceData = [
       "Müşterilerle birebir iletişim kurarak ihtiyaçların doğru analizi",
       "Responsive ve mobil uyumlu web siteleri geliştirme"
     ]
+  },
+  {
+    title: "Web Designer",
+    company: "Nokta Medya",
+    period: "2022 - Şimdi",
+    description: [
+      "Kurumsal müşteriler için özel web siteleri tasarımı ve geliştirmesi",
+      "UI/UX tasarım prensiplerine uygun kullanıcı dostu arayüzler oluşturma",
+      "Müşterilerle birebir iletişim kurarak ihtiyaçların doğru analizi",
+      "Responsive ve mobil uyumlu web siteleri geliştirme"
+    ]
   }
 ];
 

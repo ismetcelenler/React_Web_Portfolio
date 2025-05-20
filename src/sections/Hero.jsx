@@ -46,16 +46,16 @@ function Hero() {
             </div>
             
             <div className="mt-10 flex justify-center md:justify-start space-x-6 animate-fade-in animation-delay-800">
-              <a href="#" className="text-primary hover:text-accent dark:text-primary dark:hover:text-accent transition-colors transform hover:scale-125 duration-300">
+              <a href="https://www.linkedin.com/in/ismet-%C3%A7elenler-847306253/" target="_blank" rel="noopener noreferrer" className="text-primary hover:text-accent dark:text-primary dark:hover:text-accent transition-colors transform hover:scale-125 duration-300">
                 <i className="fab fa-linkedin-in text-2xl"></i>
               </a>
-              <a href="#" className="text-primary hover:text-accent dark:text-primary dark:hover:text-accent transition-colors transform hover:scale-125 duration-300">
+              <a href="https://github.com/ismetcelenler" target="_blank" rel="noopener noreferrer" className="text-primary hover:text-accent dark:text-primary dark:hover:text-accent transition-colors transform hover:scale-125 duration-300">
                 <i className="fab fa-github text-2xl"></i>
               </a>
               <a href="#" className="text-primary hover:text-accent dark:text-primary dark:hover:text-accent transition-colors transform hover:scale-125 duration-300">
                 <i className="fab fa-twitter text-2xl"></i>
               </a>
-              <a href="#" className="text-primary hover:text-accent dark:text-primary dark:hover:text-accent transition-colors transform hover:scale-125 duration-300">
+              <a href="https://www.instagram.com/ismetcelenler/?next=%2Fismetcelenler%2F" target="_blank" rel="noopener noreferrer" className="text-primary hover:text-accent dark:text-primary dark:hover:text-accent transition-colors transform hover:scale-125 duration-300">
                 <i className="fab fa-instagram text-2xl"></i>
               </a>
             </div>

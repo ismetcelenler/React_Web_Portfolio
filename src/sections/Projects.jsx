@@ -52,7 +52,7 @@ const projectsData = [
     category: "backend",
     image: "https://via.placeholder.com/600x400?text=Weather+API",
     description: "Çeşitli hava durumu kaynaklarından veri toplayan ve tek bir API üzerinden sunan servis.",
-    technologies: ["Python", "Django", "REST API", "AWS Lambda"],
+    technologies: ["Python", "Django", "REST APIsektr"],
     link: "#",
     github: "#"
   }
@@ -91,10 +91,9 @@ function Projects() {
             <button
               key={category.id}
               onClick={() => setFilter(category.id)}
-              className={`px-5 py-2 rounded-full transition-all duration-300 ${
-                filter === category.id
-                  ? 'bg-primary text-white'
-                  : 'bg-gray-200 dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-300 dark:hover:bg-gray-700'
+              className={`px-5 py-2 rounded-full transition-all duration-300 $ bg-gray-200 dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-300 dark:hover:bg-gray-700
+                
+                  
               }`}
             >
               {category.label}
