@@ -36,7 +36,7 @@ function Contact() {
                   </div>
                   <div>
                     <h4 className="text-lg font-medium text-secondary dark:text-white mb-1">Konum</h4>
-                    <p className="text-gray-600 dark:text-gray-400">İstanbul, Türkiye</p>
+                    <p className="text-gray-600 dark:text-gray-400">İzmir, Türkiye</p>
                   </div>
                 </div>
                 
@@ -46,7 +46,7 @@ function Contact() {
                   </div>
                   <div>
                     <h4 className="text-lg font-medium text-secondary dark:text-white mb-1">E-posta</h4>
-                    <p className="text-gray-600 dark:text-gray-400">info@ismetcelenler.com</p>
+                    <p className="text-gray-600 dark:text-gray-400">ismetcelenler@hotmail.com</p>
                   </div>
                 </div>
                 
@@ -56,7 +56,7 @@ function Contact() {
                   </div>
                   <div>
                     <h4 className="text-lg font-medium text-secondary dark:text-white mb-1">Telefon</h4>
-                    <p className="text-gray-600 dark:text-gray-400">+90 555 123 4567</p>
+                    <p className="text-gray-600 dark:text-gray-400">+90 507 173 2387</p>
                   </div>
                 </div>
                 

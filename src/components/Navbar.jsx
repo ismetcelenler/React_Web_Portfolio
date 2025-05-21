@@ -26,7 +26,7 @@ function Navbar() {
   const navLinks = [
     { href: "#hero", label: "Ana Sayfa" },
     { href: "#about", label: "Hakkımda" },
-    { href: "#skills", label: "Yetenekler" },
+    { href: "#skills", label: "Neler Yapabilirim" },
     { href: "#experience", label: "Deneyim" },
     { href: "#projects", label: "Projeler" },
     { href: "#contact", label: "İletişim" }

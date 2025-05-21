@@ -5,21 +5,21 @@ const educationData = [
   {
     title: "Bilgisayar Mühendisliği",
     institution: "Balıkesir Üniversitesi",
-    period: "2018 - 2022",
+    period: "2022 - Current",
     description: [
       "Lisans derecesi",
       "Veri yapıları, algoritma analizi ve yazılım mühendisliği odaklı eğitim",
       "Web geliştirme ve veritabanı yönetimi konularında projeler geliştirdim",
-      "Bitirme projesi: Yapay zeka destekli mobil uygulama geliştirme"
+      "Takım çalışması ve proje yönetimi deneyimi"
     ]
   },
   {
     title: "Computer Science - Erasmus+",
     institution: "Politechnika Czestochowa",
-    period: "2020 - 2021",
+    period: "2024 - 2025",
     description: [
       "Erasmus+ değişim programı",
-      "İleri düzey web teknolojileri ve veritabanı sistemleri",
+      "web teknolojileri ve veritabanı sistemleri",
       "Uluslararası takım çalışmaları ile proje geliştirme",
       "Yabancı dil ve kültürel deneyim kazanımı"
     ]
@@ -27,12 +27,12 @@ const educationData = [
   {
     title: "Fen Lisesi",
     institution: "Ödemiş Fen Lisesi",
-    period: "2014 - 2018",
+    period: "2017 - 2021",
     description: [
-      "Matematik, fizik ve bilgisayar bilimleri odaklı eğitim",
-      "Robotik ve yazılım kulüplerinde aktif katılım",
-      "TÜBİTAK Bilim Olimpiyatları'na katılım",
-      "Okul birinciliği ile mezuniyet"
+      "Sayısal alanında eğitim",
+      "Toplu çalışmalarda uyumlu çalışma becerisi",
+      "Sosyal ve sportif etkinliklerde liderlik deneyimi",
+      "Okul basketbol takımıyla başarılar elde ettim"
     ]
   }
 ];
@@ -42,7 +42,7 @@ const experienceData = [
   {
     title: "Web Designer",
     company: "Nokta Medya",
-    period: "2022 - Şimdi",
+    period: "2022 - 2022",
     description: [
       "Kurumsal müşteriler için özel web siteleri tasarımı ve geliştirmesi",
       "UI/UX tasarım prensiplerine uygun kullanıcı dostu arayüzler oluşturma",
@@ -50,17 +50,7 @@ const experienceData = [
       "Responsive ve mobil uyumlu web siteleri geliştirme"
     ]
   },
-  {
-    title: "Web Designer",
-    company: "Nokta Medya",
-    period: "2022 - Şimdi",
-    description: [
-      "Kurumsal müşteriler için özel web siteleri tasarımı ve geliştirmesi",
-      "UI/UX tasarım prensiplerine uygun kullanıcı dostu arayüzler oluşturma",
-      "Müşterilerle birebir iletişim kurarak ihtiyaçların doğru analizi",
-      "Responsive ve mobil uyumlu web siteleri geliştirme"
-    ]
-  }
+
 ];
 
 // Ortak bileşen

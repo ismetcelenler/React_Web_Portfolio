@@ -43,25 +43,25 @@ function About() {
                       <span className="mr-2 text-primary group-hover:text-accent transition-colors duration-300">
                         <i className="fas fa-calendar"></i>
                       </span>
-                      <span>Doğum Tarihi: 15.05.1990</span>
+                      <span>Doğum Tarihi: 03.10.2001</span>
                     </li>
                     <li className="flex items-center group">
                       <span className="mr-2 text-primary group-hover:text-accent transition-colors duration-300">
                         <i className="fas fa-map-marker-alt"></i>
                       </span>
-                      <span>Konum: İstanbul, Türkiye</span>
+                      <span>Konum: İzmir, Türkiye</span>
                     </li>
                     <li className="flex items-center group">
                       <span className="mr-2 text-primary group-hover:text-accent transition-colors duration-300">
                         <i className="fas fa-envelope"></i>
                       </span>
-                      <span>E-posta: info@ismetcelenler.com</span>
+                      <span>E-posta: ismetcelenler@hotmail.com</span>
                     </li>
                     <li className="flex items-center group">
                       <span className="mr-2 text-primary group-hover:text-accent transition-colors duration-300">
                         <i className="fas fa-phone"></i>
                       </span>
-                      <span>Telefon: +90 555 123 4567</span>
+                      <span>Telefon: +90 507 173 2387</span>
                     </li>
                   </ul>
                 </div>
