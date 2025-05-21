@@ -30,9 +30,7 @@ function About() {
                 Ben Kimim?
               </h3>
               <p className="text-gray-700 dark:text-gray-300 mb-6">
-                Merhaba! Ben İsmet Çelenler, 5 yılı aşkın süredir web geliştirme alanında çalışıyorum. 
-                Frontend ve backend teknolojileriyle modern, kullanıcı dostu ve performanslı web uygulamaları 
-                geliştirme konusunda uzmanım. Karmaşık problemleri basit ve şık çözümlere dönüştürmeyi seviyorum.
+                Merhaba! Ben İsmet Çelenler. Bilgisayar Mühendisliği 3. sınıf öğrencisiyim ve web geliştirme alanında kendimi aktif olarak geliştiriyorum. Hem frontend hem de backend teknolojileriyle kullanıcı odaklı, modern ve işlevsel web uygulamaları geliştirme konusunda çeşitli projelerde yer aldım. Öğrenmeye açık, çözüm odaklı ve detaylara önem veren bir yazılım geliştirici adayıyım.
               </p>
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
