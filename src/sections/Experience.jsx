@@ -40,6 +40,17 @@ const educationData = [
 // Deneyim verileri
 const experienceData = [
   {
+    title: "Generative AI Evaluator",
+    company: "Outlier AI",
+    period: "2024 - 2024",
+    description: [
+      "Prompt engineering ve model çıktısı iyileştirme çalışmaları.",
+      "İçerik üretim süreçlerinde kalite kontrol ve veri analizi.",
+      "Veri seti hazırlığı ve model çıktısı değerlendirme",
+      "Generative AI projelerinde içerik kalitesini artırma"
+    ]
+  },
+    {
     title: "Web Designer",
     company: "Nokta Medya",
     period: "2022 - 2022",
@@ -50,6 +61,7 @@ const experienceData = [
       "Responsive ve mobil uyumlu web siteleri geliştirme"
     ]
   },
+
 
 ];
 

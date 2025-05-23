@@ -74,16 +74,16 @@ function Contact() {
               <div className="mt-8">
                 <h4 className="text-lg font-medium text-secondary dark:text-white mb-4">Sosyal Medya</h4>
                 <div className="flex space-x-4">
-                  <a href="#" className="w-10 h-10 bg-blue-600 hover:bg-blue-700 text-white rounded-full flex items-center justify-center transition-colors">
+                  <a href="https://www.linkedin.com/in/ismet-%C3%A7elenler-847306253/" className="w-10 h-10 bg-blue-600 hover:bg-blue-700 text-white rounded-full flex items-center justify-center transition-colors">
                     <i className="fab fa-linkedin-in"></i>
                   </a>
-                  <a href="#" className="w-10 h-10 bg-gray-800 hover:bg-black text-white rounded-full flex items-center justify-center transition-colors">
+                  <a href="https://github.com/ismetcelenler" className="w-10 h-10 bg-gray-800 hover:bg-black text-white rounded-full flex items-center justify-center transition-colors">
                     <i className="fab fa-github"></i>
                   </a>
                   <a href="#" className="w-10 h-10 bg-blue-400 hover:bg-blue-500 text-white rounded-full flex items-center justify-center transition-colors">
                     <i className="fab fa-twitter"></i>
                   </a>
-                  <a href="#" className="w-10 h-10 bg-pink-600 hover:bg-pink-700 text-white rounded-full flex items-center justify-center transition-colors">
+                  <a href="https://www.instagram.com/ismetcelenler/?next=%2Fismetcelenler%2F" className="w-10 h-10 bg-pink-600 hover:bg-pink-700 text-white rounded-full flex items-center justify-center transition-colors">
                     <i className="fab fa-instagram"></i>
                   </a>
                 </div>

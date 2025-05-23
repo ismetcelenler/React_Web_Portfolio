@@ -44,7 +44,7 @@ function Navbar() {
         <nav className="flex items-center justify-between">
           {/* Logo */}
           <Link href="/" className="text-2xl font-bold text-primary">
-            İsmet<span className="text-secondary dark:text-white">Çelenler</span>
+            <span className="gradient-text">İsmetCelenler</span>
           </Link>
           
           {/* Desktop Navigation */}

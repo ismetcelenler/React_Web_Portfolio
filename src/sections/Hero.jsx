@@ -5,8 +5,7 @@ import profilePhoto1 from '../assets/profile-photo1.jpg';
 function Hero() {
   const typedTexts = [
     "Web Geliştirici",
-    "UI/UX Tasarımcısı", 
-    "Frontend Uzmanı",
+    "UI/UX Tasarımcısı",
     "React.js Geliştiricisi"
   ];
 

@@ -3,32 +3,33 @@ import React, { useState } from 'react';
 // Proje verileri
 const projectsData = [
   {
-    title: "E-Ticaret Platformu",
+    title: "Statify+",
     category: "web",
-    image: "https://via.placeholder.com/600x400?text=E-Commerce+Platform",
-    description: "Modern ve kullanıcı dostu bir e-ticaret platformu. Ödeme entegrasyonu, ürün yönetimi ve analitik özellikleri içerir.",
-    technologies: ["React.js", "Node.js", "MongoDB", "Stripe"],
+    image: "/images/statify.jpeg",
+    description: "StatifyPlus, Python ile geliştirilmiş bir Spotify veri analiz projesidir. Projenin arka ucunda Python kullanılırken, ön yüz tasarımı HTML, CSS ve JavaScript ile oluşturulmuştur. Python, Spotify API’sinden veri çekme ve analiz işlemlerini gerçekleştirir. Kullanıcı arayüzü, müzik verilerini görselleştirmek için dinamik ve etkileşimli yapıda tasarlanmıştır. Proje, veri işleme, API entegrasyonu ve web teknolojilerinin birlikte kullanılmasıyla kapsamlı bir çözüm sunar.",
+    technologies: ["Python", "JavaScript", "CSS", "HTML"],
     link: "#",
-    github: "#"
+    github: "https://github.com/ceyhunemre0/StatifyPlus"
+  },
+    {
+    title: "Hastane Randevu Sistemi",
+    category: "web",
+    image: "/images/hospital.png" ,
+    description: "Hastane işlemlerini yönetmek için geliştirilmiş bir C# Windows Forms masaüstü uygulamasıdır. Kullanıcı dostu arayüzü sayesinde randevu, doktor ve hasta bilgilerini kolayca düzenlemenizi ve takip etmenizi sağlar. Hastane personelinin iş süreçlerini verimli şekilde yönetmesine yardımcı olur.",
+    technologies: ["C#", ".NET",],
+    link: "#",
+    github: "https://github.com/ismetcelenler/Hospital_Management_App"
   },
   {
-    title: "Fitness Takip Uygulaması",
-    category: "mobile",
-    image: "https://via.placeholder.com/600x400?text=Fitness+App",
-    description: "Egzersiz rutinlerini ve beslenme alışkanlıklarını takip etmek için geliştirilen kapsamlı bir mobil uygulama.",
-    technologies: ["React Native", "Firebase", "Redux", "Expo"],
+    title: "Freelance İş Yönetim Uygulaması",
+    category: "desktop",
+    image: "/images/freelance.png",
+    description: "Freelancerlar için projeleri, müşterileri ve ödemeleri kolayca yönetebileceğiniz, PyQt5 ve SQLite ile geliştirilmiş masaüstü uygulaması. Kolay kullanım, güvenli veri saklama ve görsel özet ekranı sunar.",
+    technologies: ["Python", "PyQt5","SQLite"],
     link: "#",
-    github: "#"
+    github: "https://github.com/ismetcelenler/Freelancer_Management_Project"
   },
-  {
-    title: "Blog & Portföy Teması",
-    category: "web",
-    image: "https://via.placeholder.com/600x400?text=Blog+Theme",
-    description: "İçerik üreticileri ve profesyoneller için özelleştirilebilir WordPress teması.",
-    technologies: ["WordPress", "PHP", "JavaScript", "SCSS"],
-    link: "#",
-    github: "#"
-  },
+
   {
     title: "Sosyal Medya Dashboard",
     category: "web",
@@ -64,7 +65,7 @@ function Projects() {
   const categories = [
     { id: 'all', label: 'Tümü' },
     { id: 'web', label: 'Web' },
-    { id: 'mobile', label: 'Mobil' },
+    { id: 'desktop', label: 'Desktop' },
     { id: 'backend', label: 'Backend' }
   ];
   
