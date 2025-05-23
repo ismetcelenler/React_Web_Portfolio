@@ -11,15 +11,6 @@ const projectsData = [
     link: "#",
     github: "https://github.com/ceyhunemre0/StatifyPlus"
   },
-    {
-    title: "Hastane Randevu Sistemi",
-    category: "web",
-    image: "/images/hospital.png" ,
-    description: "Hastane işlemlerini yönetmek için geliştirilmiş bir C# Windows Forms masaüstü uygulamasıdır. Kullanıcı dostu arayüzü sayesinde randevu, doktor ve hasta bilgilerini kolayca düzenlemenizi ve takip etmenizi sağlar. Hastane personelinin iş süreçlerini verimli şekilde yönetmesine yardımcı olur.",
-    technologies: ["C#", ".NET",],
-    link: "#",
-    github: "https://github.com/ismetcelenler/Hospital_Management_App"
-  },
   {
     title: "Freelance İş Yönetim Uygulaması",
     category: "desktop",
@@ -29,34 +20,44 @@ const projectsData = [
     link: "#",
     github: "https://github.com/ismetcelenler/Freelancer_Management_Project"
   },
+    {
+    title: "Hastane Randevu Sistemi",
+    category: "desktop",
+    image: "/images/hospital.png" ,
+    description: "Hastane işlemlerini yönetmek için geliştirilmiş bir C# Windows Forms masaüstü uygulamasıdır. Kullanıcı dostu arayüzü sayesinde randevu, doktor ve hasta bilgilerini kolayca düzenlemenizi ve takip etmenizi sağlar. Hastane personelinin iş süreçlerini verimli şekilde yönetmesine yardımcı olur.",
+    technologies: ["C#", ".NET",],
+    link: "#",
+    github: "https://github.com/ismetcelenler/Hospital_Management_App"
+  },
 
   {
-    title: "Sosyal Medya Dashboard",
-    category: "web",
-    image: "https://via.placeholder.com/600x400?text=Social+Media+Dashboard",
-    description: "Tüm sosyal medya platformlarınızı tek bir panelden yönetmenizi sağlayan web uygulaması.",
-    technologies: ["Vue.js", "Express.js", "PostgreSQL", "Tailwind CSS"],
+    title: "Kayak Kiralama Uygulaması",
+    category: "desktop",
+    image: "/images/kayak.png",
+    description: "Bu uygulama, kayak kiralama işlemlerini kolayca yönetmek için geliştirilmiş bir masaüstü programıdır. Kullanıcılar, kayak kiralama kayıtlarını görüntüleyebilir, kalan süreleri takip edebilir ve kiralama ücretlerini hesaplayabilir. Uygulama, Windows Forms arayüzü ile kullanıcı dostu bir deneyim sunar ve .NET 6.0 teknolojisi ile geliştirilmiştir.",
+    technologies: ["C#", ".NET",],
     link: "#",
-    github: "#"
+    github: "https://github.com/ismetcelenler/Ski-Rental-Management-System"
   },
   {
-    title: "Seyahat Planlama Uygulaması",
-    category: "mobile",
-    image: "https://via.placeholder.com/600x400?text=Travel+Planner",
-    description: "Tatil ve seyahat planlamanızı kolaylaştıran, harita entegrasyonlu mobil uygulama.",
-    technologies: ["Flutter", "Dart", "Google Maps API", "Firebase"],
-    link: "#",
-    github: "#"
-  },
-  {
-    title: "Hava Durumu API",
+    title: "Text Editor",
     category: "backend",
-    image: "https://via.placeholder.com/600x400?text=Weather+API",
-    description: "Çeşitli hava durumu kaynaklarından veri toplayan ve tek bir API üzerinden sunan servis.",
-    technologies: ["Python", "Django", "REST APIsektr"],
+    image: "/images/text.png",
+    description: "Bu proje, PyQt5 kullanılarak geliştirilmiş basit bir metin düzenleyici uygulamasıdır. Kullanıcılar metin dosyalarını açabilir, düzenleyebilir ve kaydedebilirler. Ayrıca yazı tipini değiştirme, yazı boyutunu büyütme/küçültme ve Türkçe sağ tık menüsü gibi özellikler sunar. Kullanıcı dostu arayüzü ile temel metin düzenleme işlemlerini kolayca gerçekleştirmenizi sağlar.",
+    technologies: ["Python", "PyQt5",],
     link: "#",
-    github: "#"
-  }
+    github: "https://github.com/ismetcelenler/Text_Editor"
+  },
+  {
+    title: "Soru Bankası",
+    category: "desktop",
+    image: "/images/soru.png",
+    description: "Bu proje, Python ve PyQt5 ile geliştirilmiş modern bir Soru Bankası uygulamasıdır. Kullanıcılar çoktan seçmeli sorular ekleyip düzenleyebilir, doğru cevabı seçebilir ve tüm soruları Excel dosyasına kolayca aktarabilir.",
+    technologies: ["Python", "PyQt5",],
+    link: "#",
+    github: "https://github.com/ismetcelenler/Question_Bank_App"
+  },
+
 ];
 
 function Projects() {
